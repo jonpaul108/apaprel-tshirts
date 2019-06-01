@@ -21,7 +21,6 @@ const Index = (props: IIndex) => {
     </main>
     <Footer />
     </div>
-
   )
 }
 
